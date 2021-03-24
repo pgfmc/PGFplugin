@@ -1,0 +1,6 @@
+name: PGF plugins
+version: a.1.0.0
+api-version: 1.16
+author: CrimsonDart / BkYT
+main: net.pgfmc.Main
+description: plugin that adds all necessary functionality to the PGF server.
